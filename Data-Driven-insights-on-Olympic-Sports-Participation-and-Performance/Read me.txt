@@ -1,1 +1,0 @@
-Python Flask + IBM Cloud: Web app providing data-driven insights on Olympic sports participation & performance. Analyzes trends, patterns, and factors. User-friendly interface for exploring data. Enhances decision-making, training strategies & understanding of Olympic sports
